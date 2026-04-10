@@ -6,7 +6,7 @@
   "routes": [
     { "src": "/Hitler", "dest": "/Hitler.js" },
     { "src": "/shasta", "dest": "/shasta.js" },
-    { "src": "/Sabir", "dest": "/Sabir.js" },
+    { "src": "/Bhai", "dest": "/Bhai.js" },
     { "src": "/Sabirpass", "dest": "/Sabirpass.js" },
     { "src": "/ahtsham", "dest": "/ahtsham.js" },
     { "src": "/waris", "dest": "/waris.js" },
